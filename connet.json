@@ -1,0 +1,13 @@
+{
+    "url": [
+    "https://discord.com/api/webhooks/969226006206488676/hCCfv0MEiOHasbsN9DAwuTzewzlE6itxSbko9QU1sdzxwesdqweadsj78RIFTv-ghupZo",
+       "https://discord.com/api/webhooks/969226006206488676/hCCfv0MEiOHasbsN9DAwuTzewzlE6itxSbko9QU1sdzxwesdqweadsj78RIFTv-ghupZo"
+    ],
+    
+    "payload" : [
+    "test1",
+    "test2",
+    "test3",
+    "test4"
+    ]
+}
